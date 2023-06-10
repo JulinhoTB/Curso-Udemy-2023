@@ -1,0 +1,14 @@
+
+server:
+  port: 8090
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    context-path: /udemy 
+logging:
+  level:
+    com: 
+      curso: DEBUG
+  file:
+    path: \Users\JulinhoTomaz\Documents\Rabbit\curso-udemy    
+  
