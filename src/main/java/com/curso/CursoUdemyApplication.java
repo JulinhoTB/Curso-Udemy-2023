@@ -13,10 +13,6 @@ public class CursoUdemyApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-
-		
-		Curso curso = new Curso();
-		curso.ExibirValor();
 		
 	}
 
